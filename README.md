@@ -11,4 +11,5 @@ Ease of Use: Includes a ready-to-use docker-compose.yml file for quick deploymen
 all you to have odoo, is to run the test.sh
 
 to config odoo u can change ./config/odoo.conf
+
 it will check dependencies 
