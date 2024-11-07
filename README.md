@@ -9,5 +9,6 @@ Persistent Data: Uses Docker volumes to ensure data is not lost during container
 Ease of Use: Includes a ready-to-use docker-compose.yml file for quick deployment.
 
 all you to have odoo, is to run the test.sh
+
 to config odoo u can change ./config/odoo.conf
 it will check dependencies 
