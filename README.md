@@ -8,4 +8,6 @@ Scalable: Designed to work seamlessly with Docker Swarm for scaling up services.
 Persistent Data: Uses Docker volumes to ensure data is not lost during container restarts.
 Ease of Use: Includes a ready-to-use docker-compose.yml file for quick deployment.
 
-all you to have odoo is to run the test.sh
+all you to have odoo, is to run the test.sh
+to config odoo u can change ./config/odoo.conf
+it will check dependencies 
